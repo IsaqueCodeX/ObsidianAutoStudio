@@ -221,8 +221,8 @@ END:VCARD`;
           <div className="relative w-28 h-28 mb-4">
             <div className="absolute inset-0 rounded-full border-2 border-blue-500/50 animate-pulse"></div>
             <img
-              src="/src/logo.svg"
-              alt="Logo Obsidian"
+              src="/logo.svg"
+              alt="Logo Obsidian Auto Studio"
               className="w-full h-full rounded-full object-cover border-4 border-black shadow-[0_0_30px_rgba(59,130,246,0.3)]"
             />
             <div className="absolute bottom-1 right-1 bg-blue-600 text-[10px] font-bold px-2 py-0.5 rounded-full text-white border border-black flex items-center gap-1">
